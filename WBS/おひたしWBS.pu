@@ -1,0 +1,10 @@
+@startwbs おひたしWBS
+title おひたしWBS
+
++ ほうれん草
+**[#Red]  おひたしを作る
+***[#Yellow] ほうれん草を洗う
+***[#Yellow] 鍋で茹でる
+***[#Yellow] 皿に盛り付ける
+***[#Yellow] かつおぶしをかける
+@endwbs

@@ -1,0 +1,11 @@
+
+@startwbs サンマWBS
+title サンマWBS
+
++ サンマを焼く
+**[#Red]  サンマを塩焼き
+***[#Yellow] パックを開ける
+***[#Yellow] 水気をとる
+***[#Yellow] 塩を振る
+***[#Yellow] 焼く
+@endwbs
