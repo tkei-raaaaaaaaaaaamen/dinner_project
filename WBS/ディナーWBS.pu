@@ -1,0 +1,14 @@
+@startwbs ディナーWBS
+title ディナーWBS
+
++ 夕食
+**[#Red]  買い出し
+***[#Yellow] スーパーに行く
+**[#Red] 調理
+***[#Yellow] ご飯をたく
+***[#Yellow] サンマを焼く
+***[#Yellow] ほうれん草のおひたしを作る
+***[#Yellow] かきたま汁を作る
+**[#Red] 食事
+***[#Yellow] 食べる
+@endwbs

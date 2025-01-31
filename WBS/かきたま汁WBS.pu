@@ -1,0 +1,10 @@
+@startwbs かきたま汁WBS
+title かきたま汁WBS
+
++ かきたま汁を作る
+**[#Red]  かきたま汁を作る
+***[#Yellow] しいたけを切る
+***[#Yellow] だし汁をあたためる
+***[#Yellow] しいたけを入れる
+***[#Yellow] 卵を入れる
+@endwbs
